@@ -18,6 +18,7 @@ public class startHereController {
     public startHereController () {
         init(); 
         system.debug('dsfsdf');
+        system.debug('dfgdfg dfg dffd gd');
     }
     
     public void init() {
